@@ -1,4 +1,4 @@
-# Compiled class file
+ing# Compiled class file
 *.class
 
 # Log file
@@ -30,6 +30,7 @@ replay_pid*
 .idea
 /out
 *AUTO* # ignore autosave files
+settings.json
 
 # Hikaito's files
 /fox_sorted
