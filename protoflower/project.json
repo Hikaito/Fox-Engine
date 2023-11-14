@@ -1,0 +1,47 @@
+{
+  "UUID": "ca4a8e24-45d5-406b-8297-abd8a77f7cd3",
+  "current_layer_id": 4,
+  "program_version": {
+    "number": [
+      1,
+      0,
+      0
+    ]
+  },
+  "subitems": [
+    {
+      "filepath": "flower_test_4.png",
+      "use_color": true,
+      "color": -16737895,
+      "ID": 3,
+      "type": "file",
+      "alias": "outline"
+    },
+    {
+      "filepath": "flower_test_2.png",
+      "use_color": true,
+      "color": -13312,
+      "ID": 1,
+      "type": "file",
+      "alias": "spots"
+    },
+    {
+      "filepath": "flower_test_3.png",
+      "use_color": true,
+      "color": -16777012,
+      "ID": 2,
+      "type": "file",
+      "alias": "stripes"
+    },
+    {
+      "filepath": "flower_test_1.png",
+      "use_color": true,
+      "color": -16737793,
+      "ID": 0,
+      "type": "file",
+      "alias": "fill"
+    }
+  ],
+  "type": "root",
+  "alias": "protoflower"
+}

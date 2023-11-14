@@ -1,0 +1,144 @@
+{
+  "root": {
+    "intersect_clip": false,
+    "children": [
+      {
+        "image": {
+          "image_code": 4
+        },
+        "color_use": true,
+        "color": -16777063,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": false,
+        "title": "line",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 5
+        },
+        "color_use": true,
+        "color": -3394816,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": false,
+        "title": "artist mark",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 7
+        },
+        "color_use": true,
+        "color": -3407617,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": true,
+        "title": "stripes",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 2
+        },
+        "color_use": true,
+        "color": -154,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": true,
+        "title": "ring",
+        "type": "layer"
+      },
+      {
+        "intersect_clip": true,
+        "intersect_image": {
+          "image_code": 6
+        },
+        "children": [
+          {
+            "image": {
+              "image_code": 3
+            },
+            "color_use": true,
+            "color": -52276,
+            "alpha": 1.0,
+            "visibility": true,
+            "clip": false,
+            "title": "center",
+            "type": "layer"
+          }
+        ],
+        "display_children": true,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": true,
+        "title": "spots",
+        "type": "folder"
+      },
+      {
+        "image": {
+          "image_code": 3
+        },
+        "color_use": true,
+        "color": -10027009,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": true,
+        "title": "center",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 6
+        },
+        "color_use": true,
+        "color": -13261,
+        "alpha": 1.0,
+        "visibility": false,
+        "clip": true,
+        "title": "spots",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 1
+        },
+        "color_use": true,
+        "color": -16737793,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": false,
+        "title": "fill",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 0
+        },
+        "color_use": true,
+        "color": -26368,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": false,
+        "title": "backdrop",
+        "type": "layer"
+      }
+    ],
+    "display_children": true,
+    "alpha": 1.0,
+    "visibility": true,
+    "clip": false,
+    "title": "unnamed",
+    "type": "folder"
+  },
+  "project_ID": "3f0f33c3-6e06-48ed-a361-54e191767ac2",
+  "project_name": "protoflower",
+  "program_version": {
+    "number": [
+      1,
+      0,
+      0
+    ]
+  }
+}

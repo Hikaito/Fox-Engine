@@ -12,6 +12,9 @@
 
 # Package Files #
 *.jar
+!gson-2.10.1.jar
+!Fox Engine.jar
+# establish exception to no jar file rule for the json handling	
 *.war
 *.nar
 *.ear
@@ -22,3 +25,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# project files
+.idea
+/out
+*AUTO* # ignore autosave files
+
+# Hikaito's files
+/fox_sorted
+/src/META-INF
+src/META-INF/MANIFEST.MF
+src/META-INF/MANIFEST.MF
+Fox Engine.lnk

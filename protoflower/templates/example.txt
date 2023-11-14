@@ -1,0 +1,70 @@
+{
+  "root": {
+    "intersect_clip": false,
+    "children": [
+      {
+        "image": {
+          "image_code": 3
+        },
+        "color_use": true,
+        "color": -6750055,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": false,
+        "title": "outline",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 2
+        },
+        "color_use": true,
+        "color": -16777012,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": true,
+        "title": "stripes",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 1
+        },
+        "color_use": true,
+        "color": -13312,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": false,
+        "title": "spots",
+        "type": "layer"
+      },
+      {
+        "image": {
+          "image_code": 0
+        },
+        "color_use": true,
+        "color": -16737793,
+        "alpha": 1.0,
+        "visibility": true,
+        "clip": false,
+        "title": "fill",
+        "type": "layer"
+      }
+    ],
+    "display_children": true,
+    "alpha": 1.0,
+    "visibility": true,
+    "clip": false,
+    "title": "unnamed",
+    "type": "folder"
+  },
+  "project_ID": "ca4a8e24-45d5-406b-8297-abd8a77f7cd3",
+  "project_name": "protoflower",
+  "program_version": {
+    "number": [
+      1,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "UUID": "3f0f33c3-6e06-48ed-a361-54e191767ac2",
+  "current_layer_id": 10,
+  "program_version": {
+    "number": [
+      1,
+      0,
+      0
+    ]
+  },
+  "subitems": [
+    {
+      "filepath": "image files\\flower_line.png",
+      "use_color": true,
+      "color": -13434778,
+      "ID": 4,
+      "type": "file",
+      "alias": "line"
+    },
+    {
+      "filepath": "image files\\flower_fill.png",
+      "use_color": true,
+      "color": -16737793,
+      "ID": 1,
+      "type": "file",
+      "alias": "fill"
+    },
+    {
+      "subitems": [
+        {
+          "filepath": "image files\\flower_gradient_b.png",
+          "use_color": true,
+          "color": -154,
+          "ID": 2,
+          "type": "file",
+          "alias": "ring"
+        },
+        {
+          "filepath": "image files\\flower_gradient_a.png",
+          "use_color": true,
+          "color": -10027009,
+          "ID": 3,
+          "type": "file",
+          "alias": "center"
+        }
+      ],
+      "ID": 8,
+      "type": "folder",
+      "alias": "gradients"
+    },
+    {
+      "subitems": [
+        {
+          "filepath": "image files\\flower_spot.png",
+          "use_color": true,
+          "color": -13261,
+          "ID": 6,
+          "type": "file",
+          "alias": "spots"
+        },
+        {
+          "filepath": "image files\\flower_stripe.png",
+          "use_color": true,
+          "color": -13382401,
+          "ID": 7,
+          "type": "file",
+          "alias": "stripes"
+        }
+      ],
+      "ID": 9,
+      "type": "folder",
+      "alias": "decorations"
+    },
+    {
+      "filepath": "image files\\flower_sig.png",
+      "use_color": true,
+      "color": -3394816,
+      "ID": 5,
+      "type": "file",
+      "alias": "artist mark"
+    },
+    {
+      "filepath": "image files\\flower_bg_fill.png",
+      "use_color": true,
+      "color": -26368,
+      "ID": 0,
+      "type": "file",
+      "alias": "backdrop"
+    }
+  ],
+  "type": "root",
+  "alias": "flower"
+}
