@@ -9,6 +9,8 @@ Fox Engine is a program targeted at artists that want a simplified workflow for 
 ## Get Started
 
 To use Fox Engine, refer to the [User Manual](https://github.com/Hikaito/FoxEngine/blob/main/Fox%20Engine%20User%20Manual%201.0.0.pdf) and read the quick start guide, after downloading a copy of the program.
+
+The software was written and tested on the Windows 10 platform; it may or may not work correctly without modification on other platforms.
 ## Documentation
 
 [User Manual](https://github.com/Hikaito/FoxEngine/blob/main/Fox%20Engine%20User%20Manual%201.0.0.pdf)
